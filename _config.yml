@@ -1,0 +1,16 @@
+---
+title: Claudio Documentation
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+theme: jekyll-theme-cayman
+images: /assets/images
+logo: /assets/images/claudio_logo.png
+permalink: pretty
+owner_url: 
+  url: http://www.greenvulcanotechnologies.com/claudio/
