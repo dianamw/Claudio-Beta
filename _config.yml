@@ -1,6 +1,7 @@
 ---
 title: Claudio Documentation
 timezone: UTC
+layout: default.html
 collections:
   posts:
     title: Posts
