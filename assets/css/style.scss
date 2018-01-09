@@ -54,7 +54,7 @@ a, a:hover, a:focus {
     top: 0;
     left: 0;
     box-shadow: -3px 0 20px 0 #333;
-    background-color: #00a4c5;
+    background-color: #ffffff;
     overflow-x: hidden;
     padding-top: 30px;
 }
@@ -65,10 +65,10 @@ a, a:hover, a:focus {
 
 #sidebar .sidebar-header {
     padding: 20px;
-    background: #00a4c5;
+    background: #ffffff;
 }
 #sidebar ul p {
-    color: #fff;
+    color: #ffffff;
     padding: 10px;
     font-size:17px;
 }
@@ -76,7 +76,7 @@ a, a:hover, a:focus {
 #sidebar ul li a {
     padding: 10px;
     font-size: 1.0em;
-    color: #ffffff;
+    color: #20bfd5;
     display: block;
 }
 
@@ -87,7 +87,7 @@ a, a:hover, a:focus {
 
 #sidebar ul li.active > a, a[aria-expanded="true"] {
     color: #fff;
-    background: #00a4c5;
+    background: #ffffff;
 }
 
 #sidebar ul.components {
@@ -125,7 +125,7 @@ a[aria-expanded="true"]::before {
 ul ul a {
     font-size: 0.9em !important;
     padding-left: 50px !important;
-    background: #00a4c5;
+    background: #ffffff;
 }
 
 /*-- Close Button Style --*/
@@ -192,6 +192,7 @@ ul ul a {
 		content: "\e114"; 
 	}
 }
+
 
 /* --- Mediaqueries --- */
 @media (max-width: 768px) {
